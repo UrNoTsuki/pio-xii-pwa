@@ -1,0 +1,21 @@
+{
+  "short_name": "Pio XII Deportes",
+  "name": "Pio XII Deportes",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/https://pio-xii-deportes.streamlit.app",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "es",
+  "orientation": "natural",
+  "categories": [
+    "utilities"
+  ]
+}
